@@ -1,8 +1,8 @@
 ---
-title: ""
-author: ""
-date: ""
-output: html_document
+title: ''
+output:
+  html_document:
+    df_print: paged
 ---
 
 
