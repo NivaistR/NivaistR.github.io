@@ -5,6 +5,9 @@ date: ""
 output: html_document
 ---
 
+## Niva R Workshop
+
+See this repository on [GitHub](https://github.com/NivaistR/NivaistR.github.io)
 
 # {.tabset}
 
